@@ -2,25 +2,23 @@
 
 🎓 Information Systems student passionate about technology and software development.
 
+💻 Full-stack developer focused on the JavaScript ecosystem (React, Node.js, TypeScript).
+
+⚙️ Interested in designing and building complex, scalable software systems.
+
+
 ---
 
 ## 🚀 Technologies
 
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25" height="25" style="margin-right:5px"/>
+<p align="left">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25" height="25" style="margin-right:5px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25" height="25"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25" height="25"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="25" height="25"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" height="25"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" height="25"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25" height="25"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" height="25"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="25" height="25" style="margin-right:5px"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" height="25" style="margin-right:5px"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" height="25" style="margin-right:5px"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25" height="25" style="margin-right:5px"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" height="25"/>
 
 </p>
 
