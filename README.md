@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Narciso Roberto
 
-<!--
-**narciso-roberto/narciso-roberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Systems student passionate about technology and software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25" height="25" style="margin-right:5px"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25" height="25" style="margin-right:5px"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="25" height="25" style="margin-right:5px"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" height="25" style="margin-right:5px"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" height="25" style="margin-right:5px"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25" height="25" style="margin-right:5px"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" height="25"/>
+
+</p>
+
+
+---
+
+## 📫 Connect with me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Narciso%20Roberto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:SEUEMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
