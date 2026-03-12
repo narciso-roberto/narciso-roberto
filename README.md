@@ -31,11 +31,11 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<a href="https://www.linkedin.com/in/narciso-roberto-9b29b3223/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Narciso%20Roberto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL@gmail.com">
+<a href="mailto:narcisoroberto1369@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
