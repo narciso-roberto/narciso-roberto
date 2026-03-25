@@ -2,7 +2,7 @@
 
 🎓 Information Systems student passionate about technology and software development.
 
-💻 Full-stack developer focused on the JavaScript ecosystem (React, Node.js, TypeScript).
+💻 Full-stack developer focused on the JavaScript ecosystem (React, Node.js, TypeScript and python).
 
 ⚙️ Interested in designing and building complex, scalable software systems.
 
@@ -13,7 +13,7 @@
 
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25" height="25"/>  &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25" height="25"/> &nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="25" height="25"/> &nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" height="25"/>  &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" height="25"/> &nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25" height="25"/>  &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25" height="25"/>  &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25" height="25"/> &nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="25" height="25"/> &nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" height="25"/>  &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" height="25"/> &nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25" height="25"/>  &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" height="25"/> &nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="25" height="25"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=narciso-roberto&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
