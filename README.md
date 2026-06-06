@@ -11,7 +11,7 @@
 
 ## 🚀 Technologies
 
-<table >
+<table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25"/></td>
@@ -21,6 +21,8 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="25"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="25"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="25"/></td>
   </tr>
 </table>
 
