@@ -2,7 +2,7 @@
 
 🎓 Information Systems student passionate about technology and software development.
 
-💻 Full-stack developer focused on the JavaScript ecosystem (React, Node.js, TypeScript and python).
+💻 Full-stack developer focused on the JavaScript ecosystem (React, NestJS, Node.js, TypeScript and python).
 
 ⚙️ Interested in designing and building complex, scalable software systems.
 
